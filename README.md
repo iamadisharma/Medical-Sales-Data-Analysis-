@@ -1,7 +1,5 @@
 # Peoject-1-2023 Medical Data analysis
 
-Certainly, here's the project description with some emojis added to make it more visually engaging:
-
 Project Title: Medical Product Sales Analysis and Visualization 📊💉
 
 Project Description:
@@ -57,23 +55,3 @@ In this project, we will utilize Python 🐍, SQL 📁, and Excel 📈 to conduc
 - An optional presentation for stakeholders to highlight key findings.
 
 By combining Python, SQL, and Excel, this project will enable you to perform a comprehensive analysis of medical product sales data and deliver valuable insights to support data-driven decision-making in the medical industry. 🚀🔍
-   - Provide clear instructions on how to reproduce the analysis and generate visualizations.
-
-6. **Presentation:**
-   - Prepare a presentation to communicate the results to stakeholders, if necessary.
-   - Use PowerPoint or another appropriate tool to create an informative and visually appealing presentation.
-
-**Project Goals:**
-
-- Identify the medical products with the highest and lowest sales.
-- Discover trends in sales data, such as seasonal variations or growth patterns.
-- Provide actionable insights for business decision-making, such as stock management or marketing strategies.
-
-**Expected Outcomes:**
-
-- A well-structured report summarizing the analysis and insights.
-- Visualizations that effectively convey sales trends.
-- Clean, documented code for reproducibility.
-- An optional presentation for stakeholders to highlight key findings.
-
-By combining Python, SQL, and Excel, this project will enable you to perform a comprehensive analysis of medical product sales data and deliver valuable insights to support data-driven decision-making in the medical industry.
